@@ -1,0 +1,89 @@
+=== Company: TCS ===
+Sector: IT
+Summary: Tata Consultancy Services (TCS) is a leading global IT services, consulting, and business solutions organization.
+Highlights:
+- Focused on AI, cloud, and digital transformation in FY2024.
+- Revenue growth has been consistent with double-digit CAGR since 2015.
+- Operating margin improved from 24% in 2015 to 28% in 2024.
+- ROE consistently above 30% in recent years.
+
+=== Company: Infosys ===
+Sector: IT
+Summary: Infosys is a global leader in next-generation digital services and consulting.
+Highlights:
+- Major investments in digital, AI, and automation.
+- Revenue saw slowdown post-2022 due to global macroeconomic conditions.
+- ROE maintained around 25%.
+- Strong focus on sustainability and talent development.
+
+=== Company: Wipro ===
+Sector: IT
+Summary: Wipro is a multinational corporation that provides IT, consulting, and business process services.
+Highlights:
+- Increased focus on cybersecurity and data analytics in recent years.
+- Expanded operations in North America and Europe.
+- Revenue CAGR around 8% since 2015.
+- Improved client retention and employee utilization.
+
+=== Company: ICICI Bank ===
+Sector: Banking
+Summary: ICICI Bank is a leading private sector bank in India known for innovation in retail banking.
+Highlights:
+- Strong retail loan growth and digital banking expansion.
+- Net Interest Margin increased steadily from 3.1% to 4.0%.
+- ROE grew from 12% in 2015 to 18% in 2024.
+- High CASA ratio maintained over the years.
+
+=== Company: HDFC Bank ===
+Sector: Banking
+Summary: HDFC Bank is India's largest private sector bank by assets.
+Highlights:
+- Stable asset quality and efficient cost-to-income ratio.
+- Consistent rise in net profit YoY.
+- ROE crossed 20% in FY2023.
+- Strong presence in rural and semi-urban areas.
+
+=== Company: Axis Bank ===
+Sector: Banking
+Summary: Axis Bank is a major private sector bank with a large corporate and retail customer base.
+Highlights:
+- Transformation towards digital-first banking.
+- Improved operational efficiency since 2018.
+- ROE recovered from 10% in 2017 to 16% in 2024.
+- Steady growth in fee income and trading gains.
+
+=== Company: Reliance Industries ===
+Sector: Energy
+Summary: Reliance Industries is a conglomerate with major interests in energy, petrochemicals, and telecom.
+Highlights:
+- Launched Jio Financial in FY2023.
+- Strong sales growth from energy and retail segments.
+- Investments in green energy projects like solar and hydrogen.
+- Stable ROE despite diversification efforts.
+
+=== Company: NTPC ===
+Sector: Energy
+Summary: NTPC is India's largest energy conglomerate involved in generation and distribution of electricity.
+Highlights:
+- Capacity addition from renewable sources has increased.
+- Revenue mainly from long-term PPAs with state DISCOMs.
+- Stable earnings with modest ROE around 13%-15%.
+- Focus on sustainable energy and net-zero goals.
+
+=== Company: Sun Pharma ===
+Sector: Pharma
+Summary: Sun Pharmaceutical is India's largest pharma company by market capitalization.
+Highlights:
+- Expanding global footprint, especially in the US and Europe.
+- Strong R&D pipeline for chronic and specialty therapies.
+- Revenue and margin expansion driven by exports.
+- ROE hovered around 18%-20% since 2019.
+
+=== Company: Dr. Reddy's Labs ===
+Sector: Pharma
+Summary: Dr. Reddy’s Laboratories is a multinational pharmaceutical company based in India.
+Highlights:
+- Investments in biosimilars and complex generics.
+- US market contributes to nearly 50% of revenue.
+- Improved efficiency in supply chain operations.
+- Focus on affordable medicine and public health.
