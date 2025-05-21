@@ -10,7 +10,8 @@ genai.configure(api_key=GEMINI_API_KEY)
 def generate_insight(
     df: pd.DataFrame,
     parsed_query: dict,
-    company_info: dict
+    company_info: dict,
+    query: str
 ) -> str:
     """
     Generate RAG-based insight using financial data and company descriptions.
@@ -56,6 +57,24 @@ Company Background:
 {description_context}
 
 Now provide a thoughtful and clear insight, conclusion, or explanation that helps the user understand the financial trends or context. Avoid repeating table values. Summarize, compare, or explain patterns instead.
+But before doing this analysis, you are given the raw user query and you have to answer that very concisely. Don't answer if the query is just about asking for data or plot. only answer if the query wants some objective answer from the data otherwise proceed with analysis.
+
+user query (raw):
+{query}
+
+Remember you still have to do the analysis after answering the query.
+    """
+
+    model = genai.GenerativeModel("gemini-2.0-flash")
+    response = model.generate_content(prompt)
+    return response.text.strip()
+
+def generate_normal(query):
+    prompt=f"""
+    You are a financial analysis assistant and you have been asked a query, answer accurately and concisely.
+
+    [query]:
+    {query}
     """
 
     model = genai.GenerativeModel("gemini-2.0-flash")
