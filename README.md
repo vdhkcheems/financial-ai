@@ -41,6 +41,8 @@ A modular multi-agent system that interprets natural language queries about fina
     streamlit run app.py
     ```
 
+### [Deployed link](https://vdhkcheems-financial-ai-app-dknrjm.streamlit.app/)
+
 ### 🧾 2. Note on My Approach
 
 I approached the problem with a **clean multi-agent architecture** that breaks down complex natural language understanding into modular steps. Each "agent" in the system is responsible for a specific stage of processing — classification, parsing, retrieval, and reasoning — ensuring separation of concerns and easier debugging.
