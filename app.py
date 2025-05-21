@@ -30,7 +30,7 @@ st.write(description)
 
 user_query = st.text_input("Ask your financial question:")
 
-if st.button("Submit") and user_query:
+if user_query:
     with st.spinner("Processing..."):
         query_class = classify_query(user_query)
 
